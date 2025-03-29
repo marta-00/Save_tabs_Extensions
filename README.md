@@ -1,8 +1,9 @@
 ## Tabs Chrome Extension
 This is a Chrome extension designed to help users keep track of URLs effortlessly. With this extension, you can:
-✅ Save the current tab with a single click
-✅ Manually add URLs for future reference
-✅ Easily access saved links in a simple, user-friendly interface
+
+✅ Save the current tab with a single click<br>
+✅ Manually add URLs for future reference<br>
+✅ Easily access saved links in a simple, user-friendly interface<br>
 
 This project is part of a Scrimba course, where it was built using HTML, CSS, and JavaScript while leveraging the Chrome Extensions API to interact with browser tabs.
 
